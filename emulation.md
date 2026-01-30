@@ -300,9 +300,6 @@ Playwright’s emulation capabilities allow you to simulate:
 all within test contexts configured via `playwright.config.ts`. ([Playwright][1])
 
 ---
-
-If you want, I can convert this into a **developer cheat sheet**, **multiple-choice quiz**, or a **ready-to-use config template** with emulation presets!
-
 [1]: https://playwright.dev/docs/emulation"
 [2]: https://playwright.dev/docs/api/class-browser"
 [3]: https://playwright.dev/docs/test-use-options"
