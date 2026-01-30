@@ -1,11 +1,3 @@
-Great — I found the official **Playwright Test Use Options** documentation and related API info. Using that, here is a **complete interview-ready Markdown guide** covering the *entire page* at:
-
-🔗 [https://playwright.dev/docs/test-use-options](https://playwright.dev/docs/test-use-options) ([Playwright][1])
-
-This includes all possible topics, **questions + detailed answers + examples**.
-
----
-
 # Playwright Test Use Options — Interview Questions & Answers
 
 ## 📚 Table of Contents
