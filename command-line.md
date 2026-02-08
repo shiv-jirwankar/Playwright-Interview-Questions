@@ -104,6 +104,7 @@ This helps run a test at a particular line. ([Playwright][1])
 ```bash
 npx playwright test -g "test title here"
 ```
+-g stands here for `grep`. We can also use `grep` flag here, but for that we need to pass `--` (multi-letter flags must use `--`, and single-letter flag must use `-`)
 
 This runs only tests matching the regex in the title. ([Playwright][1])
 
