@@ -52,6 +52,16 @@ They explain why a test was skipped, marked slow, expected to fail, or linked to
 ### 4. Can annotations be added dynamically at runtime?
 
 Yes. Runtime annotations can be added using `test.info().annotations`.
+```ts
+test('example test', async ({ page, browser }) => {
+  test.info().annotations.push({
+    type: 'browser version',
+    description: browser.version(),
+  });
+
+  // ...
+});
+```
 
 ---
 
